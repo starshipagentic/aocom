@@ -1,2 +1,3 @@
 # aocom
-Placeholder repo for the aocom project
+
+Placeholder package. The `aocom` name is reserved for a future project.
